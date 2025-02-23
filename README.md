@@ -26,6 +26,11 @@
 
 ---
 
+### 📊 WakaTime Stats  
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=@kunall_sr&layout=compact&theme=dracula)
+
+---
+
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-srivastava-8a520b33a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kunall_sr?t=4DdTRp3Wq5_MJ66BN_BZYA&s=08)  
